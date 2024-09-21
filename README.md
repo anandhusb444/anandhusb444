@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anandhu Sb</h1>
 <h3 align="center">A passionate Full Stack Dotnet developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif"
+<img align="right" alt="Coding" width="400" height="400" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif"
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhusb444&label=Profile%20views&color=0e75b6&style=flat" alt="anandhusb444" /> </p>
+<p align="left"> </p>
 
 - 🌱 I’m currently learning **Entity Framework**
 
