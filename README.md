@@ -5,7 +5,7 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Entity Framework**
+- 🌱 I’m currently learning **DotNet Core**
 
 - 💬 Ask me about **javascript, React, Redux, C#, Dotnet**
 
